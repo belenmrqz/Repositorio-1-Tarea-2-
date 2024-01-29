@@ -3,3 +3,4 @@ Libro 2: Fundamentos
 Libro 3: Metodología
 Libro 4: Belén
 Libro 5: Conceptos avanzados
+Libro 6: Márquez
